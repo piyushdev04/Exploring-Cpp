@@ -395,7 +395,7 @@ void explainExtra() {
 
     string s = "123";
     sort(s.begin(), s.end());
-    
+    0
     do {
         cout << s << endl;
     } while(next_permutation(s.begin(), s.end()));
